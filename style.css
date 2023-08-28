@@ -31,4 +31,11 @@ img {
     height: auto;
 }
 
+button {
+    position: center;
+    border: 2px solid transparent;
+    background-color: black;
+    color:floralwhite;
+}
+
 
