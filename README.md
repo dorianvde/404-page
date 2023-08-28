@@ -1,3 +1,3 @@
 # 404-page
 
-See my error page here : dorianvde.github.io
+See my error page here : https://dorianvde.github.io
